@@ -1,0 +1,5 @@
+BATCH_ID,DRUG_NAME,LINE,WEEK,PLANNED_VOLUME,STATUS,TEMP_LOG
+1041,Insulin-X,Line-1,Wk-1,5000,COMPLETED,Normal
+1088,Lisinopril,Line-2,Wk-1,15000,COMPLETED,Normal
+1095,Vitamin C,Line-3,Wk-1,25000,COMPLETED,Normal
+1402,Insulin-X,Cold-Chain,Current_Wk,2500,STORED,Storage freezer failed: Dropped to 1C for 3 hours
