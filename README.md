@@ -7,7 +7,9 @@ Simple project in Snowflake:
 - provides a simple GUI in Streamlit (directly deployed in Snowflake and viewed in Snowsight UI)
 
 Demo of a complex question that reaches into multiple datasources at once:
-https://github.com/user-attachments/assets/11e0c524-1290-4b85-9724-f03d6fda2ee7
+
+
+https://github.com/user-attachments/assets/f01e93d5-d188-449b-b641-9f887b7db90f
 
 
 
