@@ -6,12 +6,13 @@ Simple project in Snowflake:
 - instructs the LLM to refer to the provided documents to minimize hallucinations
 - provides a simple GUI in Streamlit (directly deployed in Snowflake and viewed in Snowsight UI)
 
-Demo of a complex question that reaches into multiple datasources at once:
+The goal was to learn various parts of the Snowflake platform and build some real-life scenario prototype, how the roles work, how to deploy something, how to create cortex service. Demo of a complex question that reaches into multiple datasources at once:
 
 
 https://github.com/user-attachments/assets/f01e93d5-d188-449b-b641-9f887b7db90f
 
 
+In a bigger project a more agentic approach would be a direction to follow, also some kind of better semantic indexing than just chunking with overlapping, for example adding short summary to the chunks (or even a vectorized summary).
 
 ## Setup
 
