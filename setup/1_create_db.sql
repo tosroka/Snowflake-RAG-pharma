@@ -1,0 +1,4 @@
+USE ROLE SYSADMIN; -- we need rights to create the DB initially
+
+CREATE DATABASE PHARMA_COPILOT;
+--USE DATABASE PHARMA_COPILOT; 
